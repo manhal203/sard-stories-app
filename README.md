@@ -58,9 +58,9 @@ Here are some screenshots of the Sard app:
 |---|---|---|
 | <img src="https://github.com/user-attachments/assets/1b06d648-93ee-4326-9908-785ab88314cd" width="200"/> | <img src="https://github.com/user-attachments/assets/38626a9d-ab57-4b0c-878e-35673a6c6666" width="200"/> | <img src="https://github.com/user-attachments/assets/ace4ad2f-4642-4fa3-8e72-48878b86ec88" width="200"/> |
 
-| Dark Mode | Story Info Screen | Story Screen | Author Info Screen |
+| Dark Mode | Story Info Screen | Author Info Screen |
 |---|---|---|---|
-| <img src="https://github.com/user-attachments/assets/0f7f9068-3926-4f5a-9fb0-3e2c9252dead" width="200"/> | <img src="https://github.com/user-attachments/assets/68545f99-5433-42b8-86b3-b8e4b18a8fc1" width="200"/> | <img src="https://github.com/user-attachments/assets/211cee94-7ab1-42df-99cb-b2603db447f4" width="200"/> | <img src="https://github.com/user-attachments/assets/69a25daa-f1f9-496b-b6cb-2631e1123713" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/0f7f9068-3926-4f5a-9fb0-3e2c9252dead" width="200"/> | <img src="https://github.com/user-attachments/assets/68545f99-5433-42b8-86b3-b8e4b18a8fc1" width="200"/> | <img src="https://github.com/user-attachments/assets/69a25daa-f1f9-496b-b6cb-2631e1123713" width="200"/> |
 
 ---
 
@@ -72,6 +72,6 @@ https://github.com/user-attachments/assets/460e99cd-42a9-45d7-a85f-7ab72fd07252
 ---
 
 ## ⚙️ Setup & Installation
-- Clone the repository: git clone <https://github.com/flutter-gg-2026/capstone-i-manhal203.git>
-- Install dependencies: flutter pub get
-- Run the app: flutter run
+1. Clone the repository: `git clone https://github.com/flutter-gg-2026/capstone-i-manhal203.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
