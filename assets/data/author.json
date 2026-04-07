@@ -1,0 +1,34 @@
+{
+  "author": [
+    {
+      "authorName": "Roald Dahl",
+      "summary": "A famous British author known for writing imaginative masterpieces like \"Matilda\" and \"Charlie and the Chocolate Factory\".",
+      "color": "#FFF59D",
+      "authorId": 101
+    },
+    {
+      "authorName": "Dr. Seuss",
+      "summary": "An iconic American writer and illustrator celebrated for his rhythmic, rhyming books like \"The Cat in the Hat\".",
+      "color": "#E1BEE7",
+      "authorId": 102
+    },
+    {
+      "authorName": "Beatrix Potter",
+      "summary": "A legendary English author known for her charming animal tales, most notably \"The Tale of Peter Rabbit\".",
+      "color": "#F8BBD0",
+      "authorId": 103
+    },
+    {
+      "authorName": "Eric Carle",
+      "summary": "A beloved designer and writer famous for his collage art style in books like \"The Very Hungry Caterpillar\".",
+      "color": "#B3E5FC",
+      "authorId": 104
+    },
+    {
+      "authorName": "Enid Blyton",
+      "summary": "One of the most prolific children's writers in history, famous for \"The Famous Five\" and \"Noddy\" series.",
+      "color": "#C8E6C9",
+      "authorId": 105
+    }
+  ]
+}
