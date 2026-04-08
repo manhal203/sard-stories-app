@@ -48,26 +48,27 @@ Here are some screenshots of the Sard app:
 
 | Welcome Screen | Login Screen | Signup Screen |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/0b336aee-35b7-451d-a82b-3fb1933df4e3" width="200"/> | <img src="https://github.com/user-attachments/assets/629b19af-6651-459f-8d7b-c788c924c3ed" width="200"/> | <img src="https://github.com/user-attachments/assets/c864cefa-caeb-40a6-9380-6b95809c505e" width="200"/> |
+| <img src="screenshots/photo_4_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_3_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_2_2026-04-05_03-45-41.jpg" width="200"/> |
 
 | Home Screen | Search Screen | Favorites Screen |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/28f9bba1-9d85-4c7a-9629-05d605cc93ef" width="200"/> | <img src="https://github.com/user-attachments/assets/69f240c2-8e8e-4046-9450-63ad7503fa35" width="200"/> | <img src="https://github.com/user-attachments/assets/ddd0738f-3eca-4856-ae9b-677df756bfe6" width="200"/> |
+| <img src="screenshots/photo_6_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_8_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_12_2026-04-05_03-45-41.jpg" width="200"/> |
 
 | Category Screen | Profile Screen | Settings Screen |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/1b06d648-93ee-4326-9908-785ab88314cd" width="200"/> | <img src="https://github.com/user-attachments/assets/38626a9d-ab57-4b0c-878e-35673a6c6666" width="200"/> | <img src="https://github.com/user-attachments/assets/ace4ad2f-4642-4fa3-8e72-48878b86ec88" width="200"/> |
+| <img src="screenshots/photo_1_2026-04-05_03-49-10.jpg" width="200"/> | <img src="screenshots/photo_7_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_1_2026-04-05_03-45-41.jpg" width="200"/> |
 
 | Dark Mode | Story Info Screen | Author Info Screen |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/0f7f9068-3926-4f5a-9fb0-3e2c9252dead" width="200"/> | <img src="https://github.com/user-attachments/assets/68545f99-5433-42b8-86b3-b8e4b18a8fc1" width="200"/> | <img src="https://github.com/user-attachments/assets/69a25daa-f1f9-496b-b6cb-2631e1123713" width="200"/> |
+| <img src="screenshots/photo_10_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_13_2026-04-05_03-45-41.jpg" width="200"/> | <img src="screenshots/photo_14_2026-04-05_03-45-41.jpg" width="200"/> |
 
 ---
 
 ## 🎬 Demo Video
 
 Quick overview of app functionality:  
-https://github.com/user-attachments/assets/460e99cd-42a9-45d7-a85f-7ab72fd07252
+
+https://github.com/user-attachments/assets/14cb52ed-ffe9-4937-8cda-2c901959fa0e
 
 ---
 
